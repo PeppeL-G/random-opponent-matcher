@@ -21,7 +21,7 @@ var onMatch = function(user1, user2){
 	// }
 }
 
-var myMatcher = new RandomOpponentMatcher(name, algortihm, onMatch)
+var myMatcher = new RandomOpponentMatcher(name, algorithm, onMatch)
 ```
 
 On the client, you need to do something like this:
